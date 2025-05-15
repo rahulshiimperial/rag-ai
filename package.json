@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@qdrant/js-client-rest": "^1.14.0",
+    "axios": "^1.9.0",
+    "cohere-ai": "^4.0.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^4.98.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
